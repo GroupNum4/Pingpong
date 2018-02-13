@@ -1,1 +1,1 @@
-# Pingpong
+# Pingpong Read the wiki
