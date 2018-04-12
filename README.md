@@ -10,7 +10,7 @@ Hasanberk as Designer
 Zahidul Haque Developer.
 
 Possible framework(s)   
-Possible framework to be used for developing the prototype is Unity3d, Blender3d.
+Possible framework to be used for developing the prototype is Unity3d, Blender3d, 3ds Max.
 
 Target platform(s)
 Oculus VR platform.
