@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe556f7ac3627044a9c8ce4b336a109b
+timeCreated: 1522506312
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 150
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Driving Around
+  fontNames:
+  - Driving Around
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
