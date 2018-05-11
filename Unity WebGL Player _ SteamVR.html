@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)http://www.tlu.ee/~brujah/Oculus%20build/oculus%20ui.html -->
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    
+    <title>Unity WebGL Player | SteamVR</title>
+    <link rel="shortcut icon" href="http://www.tlu.ee/~brujah/Oculus%20build/favicon.ico">
+    <link rel="stylesheet" href="./Unity WebGL Player _ SteamVR_files/style.css">
+    <script src="./Unity WebGL Player _ SteamVR_files/UnityProgress.js.download"></script>  
+    <script src="./Unity WebGL Player _ SteamVR_files/UnityLoader.js.download"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "http://www.tlu.ee/~brujah/Oculus%20build//Oculus ui.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 960px; height: 600px; padding: 0px; margin: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" style="width: 100%; height: 100%;"></canvas><div class="logo Dark"></div><div class="progress Dark"><div class="empty" style="width: 74.2381%;"></div><div class="full" style="width: 25.7619%;"></div></div></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">SteamVR</div>
+      </div>
+    </div>
+  
+</body></html>
