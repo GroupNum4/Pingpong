@@ -1,0 +1,14 @@
+{
+"companyName": "Valve",
+"productName": "SteamVR",
+"dataUrl": "Oculus ui.data.unityweb",
+"asmCodeUrl": "Oculus ui.asm.code.unityweb",
+"asmMemoryUrl": "Oculus ui.asm.memory.unityweb",
+"asmFrameworkUrl": "Oculus ui.asm.framework.unityweb",
+"asmLibraryUrl": "Oculus ui.asm.library.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
